@@ -8,10 +8,10 @@ Group members: Sophia Conrad (mbv834), Katrine Kjørup (dqx858) and Johannes Her
 
 This is the most important folder for our project. It contains files showing how we trained our different models:
 
-- emojis-only: This model was trained on comments only containing emojis. The Jupyter notebook contains the code used and the csv file contains the data used.
-- text-only: This model was trained on comments only containing text. The Jupyter notebook contains the code used and the csv file contains the data used.
-- text+emojis: This model was trained on comments containing both text and emojis. The Jupyter notebook contains the code used and the csv file contains the data used.
-- text+emojis+reactions: This model was trained on Facebook reactions and comments with text and emojis. The Jupyter notebook contains the code used and the csv file contains the data used.
+- <b>emojis-only</b>: This model was trained on comments only containing emojis. The Jupyter notebook contains the code used and the csv file contains the data used.
+- <b>text-only</b>: This model was trained on comments only containing text. The Jupyter notebook contains the code used and the csv file contains the data used.
+- <b>text+emojis</b>: This model was trained on comments containing both text and emojis. The Jupyter notebook contains the code used and the csv file contains the data used.
+- <b>text+emojis+reactions</b>: This model was trained on Facebook reactions and comments with text and emojis. The Jupyter notebook contains the code used and the csv file contains the data used.
 
 ## helper_scripts
 
